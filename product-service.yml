@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: AUTH-SERVICE
+    name: PRODUCT-SERVICE
 
   datasource:
     url: ${SPRING_DATASOURCE_URL:jdbc:postgresql://localhost:5433/product_db}
